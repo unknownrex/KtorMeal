@@ -1,4 +1,4 @@
-package com.rexample.ktormeal.data
+package com.rexample.ktormeal.data.remote
 
 import android.util.Log
 import io.ktor.client.HttpClient

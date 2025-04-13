@@ -11,8 +11,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.Alignment
 import coil.compose.rememberAsyncImagePainter
-import com.rexample.ktormeal.data.Category
-import com.rexample.ktormeal.data.fetchCategories
+import com.rexample.ktormeal.data.response.Category
+import com.rexample.ktormeal.data.remote.fetchCategories
 import kotlinx.coroutines.launch
 
 @Composable
